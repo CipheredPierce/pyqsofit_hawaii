@@ -1,0 +1,9 @@
+# AGN Data
+data/
+
+# FITS
+*.fits
+*.fit
+
+# Notebooks
+*.ipynb
